@@ -1,6 +1,7 @@
 # LOW LIGHT IMAGE DENOISING 
 
-![3EBB3317-A3DA-4C27-AE47-290FFD36FC8D_1_201_a](https://github.com/urva9/LLID/assets/159683192/79e096b5-e444-41e2-bb51-5427a3d7c2e8)
+![WhatsApp Image 2024-06-16 at 8 36 39 PM](https://github.com/urva9/LLID-2/assets/159683192/be6384f7-53fd-41b9-9344-46518b8fcd32)
+
 
 
 Introduction :-
@@ -17,9 +18,7 @@ Refinement Stage:
 
 Spatial Feature Transform (SFT) Layer: Incorporates texture information from the grayscale image into the improved image. This layer integrates the texture details using a mechanism similar to GANs (Generative Adversarial Networks) to refine the final output.
 
-Example of image in these conditions :- Low light, denoised and enhanced, ground truth image
-
-![WhatsApp Image 2024-06-12 at 11 36 04 AM](https://github.com/urva9/LLID/assets/159683192/493cd828-e52b-493a-9987-ff3c00ff9c9a)
+![WhatsApp Image 2024-06-16 at 8 27 09 PM](https://github.com/urva9/LLID-2/assets/159683192/b34b9ee6-c62d-4b68-bcd3-9bad5339070f)
 
 
 
