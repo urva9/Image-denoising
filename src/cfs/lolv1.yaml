@@ -1,7 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-# general settings
 name: LIVENet
 model_type: LLIE
 
