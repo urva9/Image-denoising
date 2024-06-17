@@ -1,7 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-
 import yaml
 from collections import OrderedDict
 
