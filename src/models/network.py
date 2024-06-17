@@ -1,11 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-
-"""
-Network definition for Livenet
-"""
-
 # imports
 from .blocks import GrayEncoder, ResidualEncoder, ResidualDecoder, RefineBlock, DecoderBlock
 from .utils import get_final_image, combine_YCbCr_and_RGB
