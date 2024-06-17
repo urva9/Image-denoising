@@ -1,9 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-"""
-basic helper functions
-"""
 import numpy as np
 import random
 import torch
