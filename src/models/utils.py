@@ -1,10 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-"""
-basic helper functions
-"""
-
 from torch import Tensor
 import numpy as np
 import torch
