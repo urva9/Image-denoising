@@ -1,11 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-
-"""
-Network loss functions
-"""
-
 from torch.autograd import Variable
 import torch.nn.functional as F
 import torch.nn as nn
