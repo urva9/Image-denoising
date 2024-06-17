@@ -1,26 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-
-"""
-Training code for LLIE with given configuration params
-
-usage:
-
-python test.py -opt cfs/lolv1.yaml
-"""
-
-# from models import LIENet, ResRefinement
-# from torchvision.utils import save_image
-# import numpy as np
-# import torchvision
-# import argparse
-# # import config
-# import time
-# import time
-# import math
-# import cv2
-
 import argparse
 import logging
 import os
