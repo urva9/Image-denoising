@@ -1,11 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-
-"""
-Network blocks for Livenet
-"""
-
 # imports
 import torch.nn as nn
 import torch
