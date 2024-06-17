@@ -1,15 +1,3 @@
-# ------------------------------------------------------------------------
-# Copyright (c) 2023 CandleLabAI. All Rights Reserved.
-# ------------------------------------------------------------------------
-
-"""
-Training code for LLIE with given configuration params
-
-usage:
-
-python train.py -opt cfs/lolv1.yaml
-"""
-
 import argparse
 import logging
 from torch.utils.tensorboard import SummaryWriter
