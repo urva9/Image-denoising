@@ -47,3 +47,9 @@ To test model, Run following command from /src directory.
 python test.py -opt cfs/lolv1.yaml
 ```
 Above command will predict the test images and print PSNR, SSIM, MAE and LPIPS score.
+
+PSNR :- 41.283
+SSIM :- 0.788
+MAE :- 0.107
+LPIPS :- 0.198
+
