@@ -2,6 +2,7 @@
 
 ![WhatsApp Image 2024-06-16 at 8 36 39 PM](https://github.com/urva9/LLID-2/assets/159683192/be6384f7-53fd-41b9-9344-46518b8fcd32)
 
+![WhatsApp Image 2024-06-18 at 11 37 34 PM](https://github.com/urva9/Image-denoising/assets/159683192/683592e8-6e3f-4427-839e-664f2cd7921c)
 
 
 Introduction :-
